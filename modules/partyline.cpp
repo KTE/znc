@@ -15,8 +15,8 @@ using std::vector;
 using std::map;
 
 // If you change these and it breaks, you get to keep the pieces
-#define CHAN_PREFIX_1   "~"
-#define CHAN_PREFIX_1C  '~'
+#define CHAN_PREFIX_1   "&"
+#define CHAN_PREFIX_1C  '&'
 #define CHAN_PREFIX     CHAN_PREFIX_1 "#"
 
 #define NICK_PREFIX    CString("?")
